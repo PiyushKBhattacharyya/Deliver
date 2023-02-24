@@ -12,7 +12,9 @@ To deploy this project run
   cd Deliver\deliver
   python manage.py runserver
 ```
-### NOTE
-admin page credentials:<b>
-      Username: admin
-      Password: adminpassword
+
+
+## NOTE
+    Admin page Credentials:
+        USERNAME:   admin
+        PASSWORD:   adminpassword
