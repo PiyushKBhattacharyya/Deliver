@@ -12,9 +12,22 @@ To deploy this project run
   cd Deliver\deliver
   python manage.py runserver
 ```
+## Dependencies
 
+1. Django
+'''bash
+ pip install django
+'''
+
+2. Django-Crisy-Forms
+'''bash
+pip install django-crispy-forms
+'''
+
+3. 
 
 ## NOTE
-    Admin page Credentials:
+
+Admin page Credentials:
         USERNAME:   admin
         PASSWORD:   adminpassword
