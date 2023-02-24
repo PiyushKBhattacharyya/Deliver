@@ -13,6 +13,6 @@ To deploy this project run
   python manage.py runserver
 ```
 ### NOTE
-admin page credentials:
+admin page credentials:<b>
       Username: admin
       Password: adminpassword
